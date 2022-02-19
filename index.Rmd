@@ -9,7 +9,7 @@ output:
 test this - web version
 ========================================================
 
-For the main **just.testing** website, see <https://karlropkins.github.io/just.testing/>.
+For the main **just.testing** code, see <https://github.com/karlropkins/just.testing>.
 
 ```{r echo=FALSE}
 knitr::opts_chunk$set(

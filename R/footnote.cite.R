@@ -10,7 +10,7 @@
 #' if you are using `footnote.cite()` in other applications `linebreak=TRUE` may help
 #' @export
 #' @examples
-#' #to do
+#' #to do something
 
 #kr v.0.1 11/08/2017
 #still work to do

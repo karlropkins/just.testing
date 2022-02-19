@@ -29,12 +29,12 @@ knitr::opts_chunk$set(
 ![](http://cranlogs.r-pkg.org/badges/grand-total/openair)
 
 
-<img src="inst/plume.png" alt="openair logo" width="35%" />
+<img src="inst/jt.png" alt="just.testing logo" width="35%" />
 
 
 ## Installation
 
-Installation of openair from GitHub is easy using the devtools
+Installation of just.testing from GitHub is easy using the devtools
 package.
 
 ```{r}

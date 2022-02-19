@@ -7,7 +7,7 @@ navbar:
   type: default
   left:
   - text: Functions
-    href: doc/index.html
+    href: docs/index.html
   - text: News
     href: news/index.html
   - text: Articles

@@ -25,11 +25,10 @@ knitr::opts_chunk$set(
 ```
 
 
-[![R-CMD-check](https://github.com/davidcarslaw/openair/workflows/R-CMD-check/badge.svg)](https://github.com/davidcarslaw/openair/actions)
-![](http://cranlogs.r-pkg.org/badges/grand-total/openair)
+![](http://cranlogs.r-pkg.org/badges/grand-total/just.testing)
 
 
-<img src="inst/jt.png" alt="just.testing logo" width="35%" />
+<img src="docs/images/danbo023.png" alt="just.testing logo" width="35%" />
 
 
 ## Installation

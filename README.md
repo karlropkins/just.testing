@@ -8,7 +8,7 @@ For the main **just.testing** website, see
 
 ![](http://cranlogs.r-pkg.org/badges/grand-total/just.testing)
 
-<img src="docs/images/danbo023.png" alt="just.testing logo" width="35%" />
+<img src="docs/images/danbo023.jpg" alt="just.testing logo" width="35%" />
 
 ## Installation
 

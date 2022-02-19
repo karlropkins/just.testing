@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
   cache = TRUE
 )
 knitr::opts_chunk$set(
-  fig.path = "tools/"
+  fig.path = "doc/images"
 )
 ```
 
@@ -28,7 +28,7 @@ knitr::opts_chunk$set(
 ![](http://cranlogs.r-pkg.org/badges/grand-total/just.testing)
 
 
-<img src="docs/images/danbo023.png" alt="just.testing logo" width="35%" />
+<img src="docs/images/danbo023.jpg" alt="just.testing logo" width="35%" />
 
 
 ## Installation

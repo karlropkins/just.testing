@@ -6,14 +6,14 @@
 For the main **just.testing** website, see
 <https://karlropkins.github.io/just.testing/>.
 
-[![R-CMD-check](https://github.com/davidcarslaw/openair/workflows/R-CMD-check/badge.svg)](https://github.com/davidcarslaw/openair/actions)
-![](http://cranlogs.r-pkg.org/badges/grand-total/openair)
+![](http://cranlogs.r-pkg.org/badges/grand-total/just.testing)
 
-<img src="inst/plume.png" alt="openair logo" width="35%" />
+<img src="docs/images/danbo023.png" alt="just.testing logo" width="35%" />
 
 ## Installation
 
-Installation of openair from GitHub is easy using the devtools package.
+Installation of just.testing from GitHub is easy using the devtools
+package.
 
 ``` r
 require(devtools)

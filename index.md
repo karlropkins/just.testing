@@ -6,8 +6,7 @@
 For the main **just.testing** code, see
 <https://github.com/karlropkins/just.testing>.
 
-[![R-CMD-check](https://github.com/davidcarslaw/openair/workflows/R-CMD-check/badge.svg)](https://github.com/davidcarslaw/openair/actions)
-![](http://cranlogs.r-pkg.org/badges/grand-total/openair)
+![](http://cranlogs.r-pkg.org/badges/grand-total/just.testing)
 
 ## Installation
 

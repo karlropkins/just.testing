@@ -3,11 +3,11 @@ template:
     bootswatch: flatly
 
 navbar:
-  title: worldmet
+  title: just.testing
   type: default
   left:
   - text: Functions
-    href: reference/index.html
+    href: docs/index.html
   - text: News
     href: news/index.html
   - text: Articles

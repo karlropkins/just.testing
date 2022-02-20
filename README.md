@@ -37,14 +37,15 @@ What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
 
 ``` r
-summary(cars)
-#>      speed           dist       
-#>  Min.   : 4.0   Min.   :  2.00  
-#>  1st Qu.:12.0   1st Qu.: 26.00  
-#>  Median :15.0   Median : 36.00  
-#>  Mean   :15.4   Mean   : 42.98  
-#>  3rd Qu.:19.0   3rd Qu.: 56.00  
-#>  Max.   :25.0   Max.   :120.00
+summary(example.data)
+#>        id              ans    
+#>  Min.   :  1.00   h      : 8  
+#>  1st Qu.: 25.75   o      : 7  
+#>  Median : 50.50   v      : 7  
+#>  Mean   : 50.50   i      : 6  
+#>  3rd Qu.: 75.25   m      : 6  
+#>  Max.   :100.00   j      : 5  
+#>                   (Other):61
 ```
 
 You’ll still need to render `README.Rmd` regularly, to keep `README.md`

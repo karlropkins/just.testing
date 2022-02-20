@@ -6,6 +6,8 @@
 For the main **just.testing** code, see
 <https://github.com/karlropkins/just.testing>.
 
+Somes links…
+
 ![](http://cranlogs.r-pkg.org/badges/grand-total/just.testing)
 
 ## Installation

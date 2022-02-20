@@ -25,7 +25,7 @@ knitr::opts_chunk$set(
 ```
 
 
-Somes links...
+Some links...
 
 ![](http://cranlogs.r-pkg.org/badges/grand-total/just.testing)
 

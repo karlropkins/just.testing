@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of just.testing is to …
+Just.testing is just a package I use to test things out on…
 
 ## Installation
 
